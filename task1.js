@@ -12,4 +12,5 @@ const factorial = (n) => {
   return fact;
 };
 
-console.log(factorial(5));
+console.log(factorial(5)); // 120
+console.log(factorial(4)); // 24
